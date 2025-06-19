@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "name": "Template",
+  "name": "Axa",
   "type": "konnector",
   "language": "node",
   "icon": "icon.svg",
-  "slug": "template",
-  "source": "git@github.com:konnectors/template_ccc.git",
+  "slug": "axa",
+  "source": "git@github.com:konnectors/axa.git",
   "editor": "Cozy",
-  "vendor_link": "https://books.toscrape.com/",
+  "vendor_link": "https://espaceclient.axa.fr/",
   "categories": [
-    "transport"
+    "insurance"
   ],
   "fields": { },
   "clientSide": true,
